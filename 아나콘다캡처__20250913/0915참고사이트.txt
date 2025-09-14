@@ -1,0 +1,61 @@
+참고사이트 https://wikidocs.net/226545
+
+C:/Mtest>  myai\Scripts\activate
+C:/Mtest/myai/Scripts>  python.exe -m pip install ipykernel -U --user --force-reinstall
+
+참고사이트
+https://scoop.sh/#/
+아래 2개 명령어를 vscode 편집기 콘솔창에서  파워셀ps 프롬프트에 복붙
+PS C:\Mtest>  아래명령어 입력하면  파워셀에서 파이썬조작이 편한듯
+ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+
+PS C:\Mtest> scoop install python
+PS C:\Mtest> scoop install git
+PS C:\Mtest> scoop bucket add versions
+PS C:\Mtest> scoop install python311
+
+//가상환경만들기  
+PS C:\Mtest> python -m venv "myai"
+
+
+
+
+https://www.anaconda.com/download/success
+
+
+https://www.anaconda.com/download/success
+
+
+
+https://wikidocs.net/226621
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
